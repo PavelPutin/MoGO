@@ -1,1 +1,1 @@
-# MoGO
+# MoGo
